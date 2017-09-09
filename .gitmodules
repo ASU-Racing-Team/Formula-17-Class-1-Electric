@@ -1,0 +1,6 @@
+[submodule "Formula-17-Front-Controller-Arduino"]
+	path = Formula-17-Front-Controller-Arduino
+	url = https://github.com/ASU-Racing-Team/Formula-17-Front-Controller-Arduino.git
+[submodule "Formula-17-Dashboard"]
+	path = Formula-17-Dashboard
+	url = https://github.com/ASU-Racing-Team/Formula-17-Dashboard.git
