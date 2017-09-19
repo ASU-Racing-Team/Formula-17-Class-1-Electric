@@ -4,3 +4,6 @@
 [submodule "Formula-17-Dashboard"]
 	path = Formula-17-Dashboard
 	url = https://github.com/ASU-Racing-Team/Formula-17-Dashboard.git
+[submodule "Formula-17-Front-Controller-Stm32"]
+	path = Formula-17-Front-Controller-Stm32
+	url = https://github.com/ASU-Racing-Team/Formula-17-Front-Controller-Stm32.git
